@@ -1,0 +1,30 @@
+a {
+	font-weight: 500;
+	color: #646cff;
+	text-decoration: inherit;
+}
+a:hover {
+	color: #747bff;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	margin: 0;
+	margin-bottom: 1rem;
+}
+h1 {
+	font-family: Manrope;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 48px;
+	letter-spacing: 0em;
+}
+h2 {
+	font-family: Manrope;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+}
